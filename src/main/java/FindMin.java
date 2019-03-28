@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 public class FindMin {
     public static void main(String[] args) {
         int[] array = {9, 34, 2, 1, 54, 3, 2};
